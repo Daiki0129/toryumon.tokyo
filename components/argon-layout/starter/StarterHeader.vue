@@ -18,13 +18,13 @@
 
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
                 <li class="nav-item dropdown">
-                    <a href="./form" class="nav-link" data-toggle="dropdown" role="button">
+                    <a href="https://toryumontokyo.com/form/" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-check-bold d-lg-none"></i>
                         <span class="nav-link-inner--text">FORM</span>
                     </a>
                     <div class="dropdown-menu dropdown-menu-xl">
                         <div class="dropdown-menu-inner">
-                            <a href="./form"
+                            <a href="https://toryumontokyo.com/form/"
                                class="media d-flex align-items-center">
                                 <div class="icon icon-shape bg-gradient-primary rounded-circle text-white">
                                     <i class="ni ni-send"></i>

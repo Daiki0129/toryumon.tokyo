@@ -13,7 +13,7 @@
                         </h1>
                         <div class="btn-wrapper">
                             <base-button tag="a"
-                                         href="./form"
+                                         href="https://toryumontokyo.com/form/"
                                          class="mb-3 mb-sm-0 btn btn-default"
                                          >
                                 応募はこちら

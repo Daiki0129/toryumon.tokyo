@@ -8,7 +8,7 @@
                 <div class="col-lg-5 mb-5 mb-lg-0">
                     <h1 class="text-white font-weight-light">TORYUMONとは</h1>
                     <p class="lead text-white mt-4">TORYUMONとは福岡発の学生限定スタートアップイベントです。東京版として2018年2月に初開催され、初回の開催ながら200名以上の学生が集まり、その後の第二回ではTwitterのトレンド1位を獲得するなどの大きな盛り上がりを見せ、今年2月に行われた第三回では、300人を超える学生が集まる規模へと拡大しました。</p>
-                    <a href="./form"
+                    <a href="https://toryumontokyo.com/form/"
                        class="btn btn-white mt-4">　　　参加する　　　</a>
                 </div>
                 <div class="col-lg-6 mb-lg-auto">
