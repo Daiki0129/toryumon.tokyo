@@ -22,7 +22,7 @@ module.exports = {
       { hid: 'og:title', property: 'og:title', content: pkg.description },
       { hid: 'og:description', property: 'og:description', content: pkg.description },
       { hid: 'og:image', property: 'og:image', content: 'https://toryumontokyo.com/TokyoImageOgp.jpg' },
-      { hid: 'twitter:card', property: 'twitter:card', content: 'https://toryumontokyo.com/TokyoImageOgp.jpg'}
+      { hid: 'twitter:card', property: 'twitter:card', content: 'summary_large_image'}
     ],
     // meta: [
     //   { charset: 'utf-8' },
