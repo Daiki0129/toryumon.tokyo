@@ -21,8 +21,8 @@ module.exports = {
       { hid: 'og:url', property: 'og:url', content: 'https://toryumontokyo.com/' },
       { hid: 'og:title', property: 'og:title', content: pkg.description },
       { hid: 'og:description', property: 'og:description', content: pkg.description },
-      { hid: 'og:image', property: 'og:image', content: '~/toryumon/T_tokyo_image_ogp.jpg' },
-      { hid: 'twitter:card', property: 'twitter:card', content: '~/toryumon/T_tokyo_image_ogp.jpg'}
+      { hid: 'og:image', property: 'og:image', content: '~/T_tokyo_image_ogp.jpg' },
+      { hid: 'twitter:card', property: 'twitter:card', content: '~/T_tokyo_image_ogp.jpg'}
     ],
     // meta: [
     //   { charset: 'utf-8' },
