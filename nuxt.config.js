@@ -18,11 +18,11 @@ module.exports = {
       { hid: 'description', name: 'description', content: pkg.description },
       { hid: 'og:site_name', property: 'og:site_name', content: pkg.description },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://toryumon-tokyo.firebaseapp.com/' },
+      { hid: 'og:url', property: 'og:url', content: 'https://toryumontokyo.com/' },
       { hid: 'og:title', property: 'og:title', content: pkg.description },
       { hid: 'og:description', property: 'og:description', content: pkg.description },
-      // { hid: 'og:image', property: 'og:image', content: './static/T_tokyo_image_ogp.jpg' },
-      // { hid: 'twitter:card', property: 'twitter:card', content: 'summary_large_image'}
+      { hid: 'og:image', property: 'og:image', content: './static/T_tokyo_image_ogp.jpg' },
+      { hid: 'twitter:card', property: 'twitter:card', content: './static/T_tokyo_image_ogp.jpg'}
     ],
     // meta: [
     //   { charset: 'utf-8' },
