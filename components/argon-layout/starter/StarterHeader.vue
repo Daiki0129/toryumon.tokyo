@@ -18,13 +18,13 @@
 
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
                 <li class="nav-item dropdown">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFshr4USznOSpgRAzLV238cbyA-jk4f7JAPWQ0x6rAl5nQGw/viewform?usp=sf_link" class="nav-link" data-toggle="dropdown" role="button">
+                    <a href="./form" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-check-bold d-lg-none"></i>
                         <span class="nav-link-inner--text">FORM</span>
                     </a>
                     <div class="dropdown-menu dropdown-menu-xl">
                         <div class="dropdown-menu-inner">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFshr4USznOSpgRAzLV238cbyA-jk4f7JAPWQ0x6rAl5nQGw/viewform?usp=sf_link"
+                            <a href="./form"
                                class="media d-flex align-items-center">
                                 <div class="icon icon-shape bg-gradient-primary rounded-circle text-white">
                                     <i class="ni ni-send"></i>

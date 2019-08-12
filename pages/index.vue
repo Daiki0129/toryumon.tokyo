@@ -4,10 +4,6 @@
         <br>
         <javascript-components></javascript-components>
         <carousel></carousel>
-        <div class="container">
-
-                     </div>
-
     </div>
 </template>
 <script>
