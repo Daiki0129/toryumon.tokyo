@@ -20,7 +20,7 @@
                 <span>Panel Discussion Part1</span>
             </h2>
             <h4>~ Theme ~</h4>
-            <p>『今アツい起業家たちが語る起業の魅力について』</p>
+            <p>『僕たちはこうして起業家になった。』</p>
             <br>
             <h4>~ Guest Speaker ~</h4>
             <br>
@@ -53,7 +53,7 @@
                 <span>Panel Discussion Part2</span>
             </h2>
             <h4>~ Theme ~</h4>
-            <p>『学生起業を経て、失敗談や学生時代を振り返る』</p>
+            <p>『学生で起業するという生き方』</p>
             <br>
             <h4>~ Guest Speaker ~</h4>
             <br>
